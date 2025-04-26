@@ -142,8 +142,7 @@ A big shoutout to **Piyush Garg**, **Hitesh Choudhary**, and the entire **GenAI 
 ---
 
 ## 📍 Author
-
-**Aryan Yadav**  
+  
 📧 shubhpatel58a@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/shubh-kachhadiya/)
 
